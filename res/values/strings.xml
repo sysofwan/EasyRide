@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyRide</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nearby_stops">Nearby stops</string>
+    <string name="bus_number">Bus number</string>
+    <string name="favourites">Favourites</string>
+    <string name="GPS_Alert_Dialog_Name">Cannot get location</string>
+    <string name="GPS_Alert_Dialog_Text">Location is unavailable. Do you want to change your settings?</string>
+    <string name="GPS_Alert_Positive_Button">Settings</string>
+    <string name="GPS_Alert_Negative_Button">Cancel</string>
+    <string name="title_activity_nearby_stops_">NearbyStops_Activity</string>
+    <string name="title_BusListActivity">BusListActivity</string>
+
+</resources>
